@@ -2073,16 +2073,20 @@ input, select, textarea {
 					margin-bottom: 0;
 					width: 100%;
 				}
-
+/* Controls LaBaguette + Flag */
 					#main > .panel.intro header h1 {
 						line-height: 1.25em;
-						margin-bottom: 0;
+						margin-bottom: 5;
+						text-align: center;
+						font-size: 60px;
+						font-weight: bold;
 					}
-
+/* Controls Est. 2001 */
 					#main > .panel.intro header p {
 						letter-spacing: -0.015em;
 						font-size: 1.25em;
 						margin: 0.25em 0 0 0;
+						text-align: center;
 					}
 
 				@media screen and (max-width: 980px) {
