@@ -749,8 +749,8 @@ input, select, textarea {
 						}
 
 				.row {
-					margin-top: -1.25em;
-					margin-left: -1.25em;
+					margin-top: 1.25em;
+					margin-left: 1.25em;
 				}
 
 					.row > * {
@@ -1434,6 +1434,11 @@ input, select, textarea {
 		margin-bottom: 2em;
 	}
 
+/* controls text center for the hours */
+	#hours{
+		text-align: center;
+	}
+
 /* Table */
 
 	table {
@@ -1753,6 +1758,7 @@ input, select, textarea {
 		text-align: center;
 		height: 4.25em;
 		cursor: default;
+		text-decoration:none;
 	}
 
 		#nav a {

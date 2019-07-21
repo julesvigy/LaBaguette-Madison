@@ -10,8 +10,8 @@
 // Breakpoints.
 
 	@include breakpoints((
-		xlarge:  ( 1281px,  1680px ),
-		large:   ( 981px,   1280px ),
+		xlarge:  ( 1500px,  1680px ),
+		large:   ( 1500px,   1280px ),
 		medium:  ( 737px,   980px  ),
 		small:   ( 361px,   736px  ),
 		xsmall:  ( null,    360px  )
@@ -653,6 +653,10 @@
 			position: relative;
 			padding: 3.5em 2.5em 2.5em 2.5em;
 			width: 100%;
+
+			.panel {
+				text-align: center;
+			}
 
 			&.inactive {
 				opacity: 0;
