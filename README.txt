@@ -1,0 +1,1 @@
+Website for LaBaguette. LaBaguette is a bakery/cafe located in Madison, WI. This website serves as a landing page for the business inorder to give information about what they have to offer and what they stand for.
