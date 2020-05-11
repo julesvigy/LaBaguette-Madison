@@ -257,3 +257,9 @@ p {
 .font-weight-light {
   font-weight: 100 !important;
 }
+.center {
+  display: block;
+  margin-left: auto;
+  margin-right: auto;
+  width: 50%;
+}
