@@ -245,3 +245,44 @@ a.socialIcon:hover, .socialHoverClass
   right: 35%;
   top: 75%;
 }
+
+/* holiday html */
+.order
+{
+  margin-bottom: 5%; 
+  border-bottom: .5px solid black;
+  padding-bottom: 3%;
+}
+
+.row-buche
+{
+  border-bottom: .5px solid black;
+  padding-bottom: 5%;
+}
+
+.row-how-to-order
+{
+  margin-top: 5%;
+}
+
+.row-special
+{
+  margin-top: 3%;
+  border-bottom: .5px solid black;
+  padding-bottom: 5%;
+}
+
+.delivery-row
+{
+  background-color:red;
+  color: white;
+  padding-top: 1%;
+  margin-bottom: 3%;
+}
+
+.delivery-row-home
+{
+  background-color:red;
+  color: white;
+  padding-top: 1%;
+}
