@@ -286,3 +286,17 @@ a.socialIcon:hover, .socialHoverClass
   color: white;
   padding-top: 1%;
 }
+
+.row-delivery
+{
+  margin-top: 5%;
+  padding-top: 5%;
+  border-top: .5px solid black;
+}
+
+.holiday-order
+{
+  border-bottom: 2px solid black;
+  padding-bottom: 1%;
+  margin-bottom: 3%;
+}
