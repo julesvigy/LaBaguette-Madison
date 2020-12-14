@@ -250,13 +250,13 @@ a.socialIcon:hover, .socialHoverClass
 .order
 {
   margin-bottom: 5%; 
-  border-bottom: .5px solid black;
+  border-bottom: 1px solid black;
   padding-bottom: 3%;
 }
 
 .row-buche
 {
-  border-bottom: .5px solid black;
+  border-bottom: 1px solid black;
   padding-bottom: 5%;
 }
 
@@ -268,8 +268,9 @@ a.socialIcon:hover, .socialHoverClass
 .row-special
 {
   margin-top: 3%;
-  border-bottom: .5px solid black;
+  border-bottom: 1px solid black;
   padding-bottom: 5%;
+  padding-top 2%;
 }
 
 .delivery-row
